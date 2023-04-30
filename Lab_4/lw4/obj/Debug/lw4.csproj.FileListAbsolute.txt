@@ -1,0 +1,22 @@
+E:\_\2 sem\Cripta\С мира по нитке)\Dianki\lw4\lw4\bin\Debug\lw4.exe.config
+E:\_\2 sem\Cripta\С мира по нитке)\Dianki\lw4\lw4\bin\Debug\lw4.exe
+E:\_\2 sem\Cripta\С мира по нитке)\Dianki\lw4\lw4\bin\Debug\lw4.pdb
+E:\_\2 sem\Cripta\С мира по нитке)\Dianki\lw4\lw4\obj\Debug\lw4.csproj.AssemblyReference.cache
+E:\_\2 sem\Cripta\С мира по нитке)\Dianki\lw4\lw4\obj\Debug\lw4.csproj.SuggestedBindingRedirects.cache
+E:\_\2 sem\Cripta\С мира по нитке)\Dianki\lw4\lw4\obj\Debug\lw4.Form1.resources
+E:\_\2 sem\Cripta\С мира по нитке)\Dianki\lw4\lw4\obj\Debug\lw4.Properties.Resources.resources
+E:\_\2 sem\Cripta\С мира по нитке)\Dianki\lw4\lw4\obj\Debug\lw4.csproj.GenerateResource.cache
+E:\_\2 sem\Cripta\С мира по нитке)\Dianki\lw4\lw4\obj\Debug\lw4.csproj.CoreCompileInputs.cache
+E:\_\2 sem\Cripta\С мира по нитке)\Dianki\lw4\lw4\obj\Debug\lw4.exe
+E:\_\2 sem\Cripta\С мира по нитке)\Dianki\lw4\lw4\obj\Debug\lw4.pdb
+E:\BSTU\3_course\Криптография\Labs\Lab_4\lw4\bin\Debug\lw4.exe.config
+E:\BSTU\3_course\Криптография\Labs\Lab_4\lw4\bin\Debug\lw4.exe
+E:\BSTU\3_course\Криптография\Labs\Lab_4\lw4\bin\Debug\lw4.pdb
+E:\BSTU\3_course\Криптография\Labs\Lab_4\lw4\obj\Debug\lw4.csproj.AssemblyReference.cache
+E:\BSTU\3_course\Криптография\Labs\Lab_4\lw4\obj\Debug\lw4.csproj.SuggestedBindingRedirects.cache
+E:\BSTU\3_course\Криптография\Labs\Lab_4\lw4\obj\Debug\lw4.Form1.resources
+E:\BSTU\3_course\Криптография\Labs\Lab_4\lw4\obj\Debug\lw4.Properties.Resources.resources
+E:\BSTU\3_course\Криптография\Labs\Lab_4\lw4\obj\Debug\lw4.csproj.GenerateResource.cache
+E:\BSTU\3_course\Криптография\Labs\Lab_4\lw4\obj\Debug\lw4.csproj.CoreCompileInputs.cache
+E:\BSTU\3_course\Криптография\Labs\Lab_4\lw4\obj\Debug\lw4.exe
+E:\BSTU\3_course\Криптография\Labs\Lab_4\lw4\obj\Debug\lw4.pdb

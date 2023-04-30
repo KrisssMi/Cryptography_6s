@@ -1,0 +1,2 @@
+A directory in the file system is a place containing other files and directories. It is also known as a folder. 
+Directories are used to organize and store files in a structured way.
