@@ -47,3 +47,20 @@ C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab9\Assymetrical Algorit
 C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab9\Assymetrical Algoritms\obj\Debug\netcoreapp3.1\Assymetrical Algoritms.dll
 C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab9\Assymetrical Algoritms\obj\Debug\netcoreapp3.1\Assymetrical Algoritms.pdb
 C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab9\Assymetrical Algoritms\obj\Debug\netcoreapp3.1\Assymetrical Algoritms.genruntimeconfig.cache
+E:\BSTU\3_course\Криптография\Labs\Lab_9\Assymetrical Algoritms\bin\Debug\netcoreapp3.1\Assymetrical Algoritms.exe
+E:\BSTU\3_course\Криптография\Labs\Lab_9\Assymetrical Algoritms\bin\Debug\netcoreapp3.1\Assymetrical Algoritms.deps.json
+E:\BSTU\3_course\Криптография\Labs\Lab_9\Assymetrical Algoritms\bin\Debug\netcoreapp3.1\Assymetrical Algoritms.runtimeconfig.json
+E:\BSTU\3_course\Криптография\Labs\Lab_9\Assymetrical Algoritms\bin\Debug\netcoreapp3.1\Assymetrical Algoritms.runtimeconfig.dev.json
+E:\BSTU\3_course\Криптография\Labs\Lab_9\Assymetrical Algoritms\bin\Debug\netcoreapp3.1\Assymetrical Algoritms.dll
+E:\BSTU\3_course\Криптография\Labs\Lab_9\Assymetrical Algoritms\bin\Debug\netcoreapp3.1\Assymetrical Algoritms.pdb
+E:\BSTU\3_course\Криптография\Labs\Lab_9\Assymetrical Algoritms\obj\Debug\netcoreapp3.1\Assymetrical Algoritms.csproj.AssemblyReference.cache
+E:\BSTU\3_course\Криптография\Labs\Lab_9\Assymetrical Algoritms\obj\Debug\netcoreapp3.1\Assymetrical_Algoritms.Cripta_Lab9.resources
+E:\BSTU\3_course\Криптография\Labs\Lab_9\Assymetrical Algoritms\obj\Debug\netcoreapp3.1\Assymetrical_Algoritms.Properties.Resources.resources
+E:\BSTU\3_course\Криптография\Labs\Lab_9\Assymetrical Algoritms\obj\Debug\netcoreapp3.1\Assymetrical Algoritms.csproj.GenerateResource.cache
+E:\BSTU\3_course\Криптография\Labs\Lab_9\Assymetrical Algoritms\obj\Debug\netcoreapp3.1\Assymetrical Algoritms.GeneratedMSBuildEditorConfig.editorconfig
+E:\BSTU\3_course\Криптография\Labs\Lab_9\Assymetrical Algoritms\obj\Debug\netcoreapp3.1\Assymetrical Algoritms.AssemblyInfoInputs.cache
+E:\BSTU\3_course\Криптография\Labs\Lab_9\Assymetrical Algoritms\obj\Debug\netcoreapp3.1\Assymetrical Algoritms.AssemblyInfo.cs
+E:\BSTU\3_course\Криптография\Labs\Lab_9\Assymetrical Algoritms\obj\Debug\netcoreapp3.1\Assymetrical Algoritms.csproj.CoreCompileInputs.cache
+E:\BSTU\3_course\Криптография\Labs\Lab_9\Assymetrical Algoritms\obj\Debug\netcoreapp3.1\Assymetrical Algoritms.dll
+E:\BSTU\3_course\Криптография\Labs\Lab_9\Assymetrical Algoritms\obj\Debug\netcoreapp3.1\Assymetrical Algoritms.pdb
+E:\BSTU\3_course\Криптография\Labs\Lab_9\Assymetrical Algoritms\obj\Debug\netcoreapp3.1\Assymetrical Algoritms.genruntimeconfig.cache

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\37525\\OneDrive\\Рабочий стол\\Cripta_Lab9\\Assymetrical Algoritms\\Assymetrical Algoritms.csproj": {}
+    "E:\\BSTU\\3_course\\Криптография\\Labs\\Lab_9\\Assymetrical Algoritms\\Assymetrical Algoritms.csproj": {}
   },
   "projects": {
-    "C:\\Users\\37525\\OneDrive\\Рабочий стол\\Cripta_Lab9\\Assymetrical Algoritms\\Assymetrical Algoritms.csproj": {
+    "E:\\BSTU\\3_course\\Криптография\\Labs\\Lab_9\\Assymetrical Algoritms\\Assymetrical Algoritms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\37525\\OneDrive\\Рабочий стол\\Cripta_Lab9\\Assymetrical Algoritms\\Assymetrical Algoritms.csproj",
+        "projectUniqueName": "E:\\BSTU\\3_course\\Криптография\\Labs\\Lab_9\\Assymetrical Algoritms\\Assymetrical Algoritms.csproj",
         "projectName": "Assymetrical Algoritms",
-        "projectPath": "C:\\Users\\37525\\OneDrive\\Рабочий стол\\Cripta_Lab9\\Assymetrical Algoritms\\Assymetrical Algoritms.csproj",
-        "packagesPath": "C:\\Users\\37525\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\37525\\OneDrive\\Рабочий стол\\Cripta_Lab9\\Assymetrical Algoritms\\obj\\",
+        "projectPath": "E:\\BSTU\\3_course\\Криптография\\Labs\\Lab_9\\Assymetrical Algoritms\\Assymetrical Algoritms.csproj",
+        "packagesPath": "C:\\Users\\Kristina\\.nuget\\packages\\",
+        "outputPath": "E:\\BSTU\\3_course\\Криптография\\Labs\\Lab_9\\Assymetrical Algoritms\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\37525\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kristina\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -57,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
